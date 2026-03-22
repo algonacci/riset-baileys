@@ -10,7 +10,9 @@
     "typescript": "^5"
   },
   "dependencies": {
+    "@hapi/boom": "^10.0.1",
     "@whiskeysockets/baileys": "^7.0.0-rc.9",
+    "axios": "^1.13.6",
     "pino": "^10.3.1",
     "qrcode-terminal": "^0.12.0"
   }
